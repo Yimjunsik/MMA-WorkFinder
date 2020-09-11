@@ -9,4 +9,4 @@
 ### 참조 : https://github.com/MinkiDev/MMA-WorkFinder
 
 # 스크린샷
-![](screenshot.png)
+![](screenshot.PNG)
